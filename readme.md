@@ -1,4 +1,5 @@
 * Example HTML & CSS Pages
+-------------
 
 This repository contains simple example web pages used to learn the basics of HTML and CSS.
  
