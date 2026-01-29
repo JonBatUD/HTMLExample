@@ -1,4 +1,4 @@
-*Example HTML & CSS Pages
+* Example HTML & CSS Pages
 
 This repository contains simple example web pages used to learn the basics of HTML and CSS.
  
@@ -12,7 +12,7 @@ The goal is to provide small, easy-to-understand files you can explore, modify, 
 
 - Open the folder in VS Code
 
-- git clone https://github.com/YOUR-USERNAME/REPO-NAME.git
+- git clone https://github.com/JonBatUD/HTMLExample
 
 * Running the Pages
 

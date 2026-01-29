@@ -16,17 +16,17 @@ body {
 header {
   background: #1f1f1f;
   color: white;
-  padding: 1rem;
+  padding: 10px;
 }
 
 header h1 {
-  margin-bottom: 0.5rem;
+  margin-bottom: 6px;
 }
 
 /* Top navigation */
 .top-nav a {
   color: white;
-  margin-right: 1rem;
+  margin-right: 10px;
   text-decoration: none;
 }
 
@@ -50,7 +50,7 @@ header h1 {
 }
 
 .left-panel h3 {
-  margin-bottom: 1rem;
+  margin-bottom: 10px;
 }
 
 .left-panel ul {
