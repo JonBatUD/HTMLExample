@@ -1,11 +1,11 @@
-* Example HTML & CSS Pages
--------------
+# Example HTML & CSS Pages
+
 
 This repository contains simple example web pages used to learn the basics of HTML and CSS.
  
 The goal is to provide small, easy-to-understand files you can explore, modify, and break without fear.
 
-* Getting Started
+# Getting Started
 
 - Fork this repository
 
@@ -19,7 +19,7 @@ The goal is to provide small, easy-to-understand files you can explore, modify, 
 
 The easiest way to view the pages is with Live Server in VS Code.
 
-** Install Live Server:
+## Install Live Server:
 
  - Open VS Code
 
@@ -29,7 +29,7 @@ The easiest way to view the pages is with Live Server in VS Code.
 
 - Install it
 
-** Start the server:
+## Start the server:
 
  - Open an HTML file
 
@@ -39,7 +39,7 @@ The easiest way to view the pages is with Live Server in VS Code.
 
 With LiveS erver our browser will open automatically and update when you save changes.
 
-* What You’ll Learn
+# What You’ll Learn
 
 These example pages demonstrate:
 
@@ -53,7 +53,7 @@ These example pages demonstrate:
 
 - Introductory CSS styling
 
-* How to Use This Repo
+# How to Use This Repo
 
 Try editing things like:
 
@@ -66,7 +66,7 @@ Try editing things like:
 - Break the layout and fix it again
 
 
-* Recommended Tools
+# Recommended Tools
 
 - VS Code
 
@@ -74,6 +74,6 @@ Try editing things like:
 
 - A modern browser (Chrome, Edge, Firefox)
 
-* Tip
+# Tip
 
 Open the browser DevTools (F12) and inspect elements to see how HTML and CSS connect.
